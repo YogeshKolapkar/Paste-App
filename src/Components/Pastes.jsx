@@ -43,7 +43,7 @@ const Pastes = () => {
                   <div className='flex flex-row gap-4 place-content-evenly mb-2'>
                     <button >
                      <a href={`/?pasteId=${paste?._id}`}>
-                     Edit 
+                     Edit Karo 
                      </a>
                     </button>
                     <button >
