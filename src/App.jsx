@@ -5,7 +5,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Navbar from './Components/Navbar'
 import Home from './Components/Home'
 import ViewPaste from './Components/ViewPaste'
-import Pastes from '/Components/Pastes'
+import Pastes from './Components/Pastes'
 import { useEffect } from 'react'
 // import tailwindcss from '@tailwindcss/vite'
 
